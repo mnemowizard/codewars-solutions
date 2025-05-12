@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6-kyu/Take a Ten Minutes Walk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codewars-solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codewars-solutions.iml" afterDir="false" />
+    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Added README and firsh 6-kyu kata">
+      <change afterPath="$PROJECT_DIR$/6-kyu/Simple Simple Simple String Expansion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Your order, please.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Beginner Series #3 Sum of Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Find the next perfect square!.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1747031227396</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added README and firsh 6-kyu kata">
+      <option name="closed" value="true" />
+      <created>1747032191051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747032191051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added README and firsh 6-kyu kata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README and firsh 6-kyu kata" />
   </component>
 </project>
