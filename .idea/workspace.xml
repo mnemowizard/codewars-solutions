@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Added README and firsh 6-kyu kata">
-      <change afterPath="$PROJECT_DIR$/6-kyu/Simple Simple Simple String Expansion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Your order, please.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Beginner Series #3 Sum of Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Find the next perfect square!.py" afterDir="false" />
+    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Solved 2x7-kyu + 2x6-kyu">
+      <change afterPath="$PROJECT_DIR$/6-kyu/Build a pile of Cubes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Valid Braces.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mnemowizard"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mnemowizard&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mnemowizard/codewars-solutions.git",
-    "accountId": "8aad18ef-f016-4482-b297-96c0e279a23d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mnemowizard/codewars-solutions.git&quot;,
+    &quot;accountId&quot;: &quot;8aad18ef-f016-4482-b297-96c0e279a23d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -49,7 +47,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Build a pile of Cubes.executor": "Run",
+    "Python.Simple Simple Simple String Expansion.executor": "Debug",
     "Python.Take a Ten Minutes Walk.executor": "Run",
+    "Python.Valid Braces.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -79,11 +80,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747032191051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Solved 2x7-kyu + 2x6-kyu">
+      <option name="closed" value="true" />
+      <created>1747035724325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747035724325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added README and firsh 6-kyu kata" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README and firsh 6-kyu kata" />
+    <MESSAGE value="Solved 2x7-kyu + 2x6-kyu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved 2x7-kyu + 2x6-kyu" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6-kyu/Simple Simple Simple String Expansion.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
