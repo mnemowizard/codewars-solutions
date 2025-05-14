@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Solved 2x7-kyu + 2x6-kyu">
-      <change afterPath="$PROJECT_DIR$/6-kyu/Build a pile of Cubes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Valid Braces.py" afterDir="false" />
+    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Solved x4 - 6kyu">
+      <change afterPath="$PROJECT_DIR$/5-kyu/Product of consecutive Fib numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Break camelCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Consecutive strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Fast Sort Recur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Replace With Alphabet Position.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +51,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Build a pile of Cubes.executor": "Run",
+    "Python.Consecutive strings.executor": "Run",
+    "Python.Replace With Alphabet Position.executor": "Run",
     "Python.Simple Simple Simple String Expansion.executor": "Debug",
     "Python.Take a Ten Minutes Walk.executor": "Run",
     "Python.Valid Braces.executor": "Run",
+    "Python.s.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -88,13 +94,22 @@
       <option name="project" value="LOCAL" />
       <updated>1747035724325</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Solved x4 - 6kyu">
+      <option name="closed" value="true" />
+      <created>1747126382794</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747126382794</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added README and firsh 6-kyu kata" />
     <MESSAGE value="Solved 2x7-kyu + 2x6-kyu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved 2x7-kyu + 2x6-kyu" />
+    <MESSAGE value="Solved x4 - 6kyu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved x4 - 6kyu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
