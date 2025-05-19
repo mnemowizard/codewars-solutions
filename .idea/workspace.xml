@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Solved: &#10;x2 - 5kyu&#10;x1 = 6kyu">
-      <change afterPath="$PROJECT_DIR$/6-kyu/test.py" afterDir="false" />
+    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Solved:">
+      <change afterPath="$PROJECT_DIR$/Projects/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +49,28 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Build a pile of Cubes.executor": "Run",
     "Python.Calculating with Functions.executor": "Run",
+    "Python.Can you get the loop.executor": "Run",
     "Python.Consecutive strings.executor": "Run",
     "Python.Greed is Good.executor": "Run",
     "Python.Replace With Alphabet Position.executor": "Run",
     "Python.Simple Simple Simple String Expansion.executor": "Debug",
     "Python.Take a Ten Minutes Walk.executor": "Run",
     "Python.Valid Braces.executor": "Run",
+    "Python.parser.executor": "Run",
     "Python.s.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/USER/codewars-solutions/Projects",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\codewars-solutions\Projects" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -125,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747296040121</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Solved:">
+      <option name="closed" value="true" />
+      <created>1747547076828</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747547076828</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,7 +150,8 @@
     <MESSAGE value="Solved 2x7-kyu + 2x6-kyu" />
     <MESSAGE value="Solved x4 - 6kyu" />
     <MESSAGE value="Solved: &#10;x2 - 5kyu&#10;x1 = 6kyu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: &#10;x2 - 5kyu&#10;x1 = 6kyu" />
+    <MESSAGE value="Solved:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved:" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
