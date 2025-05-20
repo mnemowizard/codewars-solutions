@@ -1,16 +1,16 @@
 import re
 
-from bs4 import BeautifulSoup
-
-with open('index.html', encoding='utf-8') as file:
-    src = file.read()
+# from bs4 import BeautifulSoup
+#
+# with open('index.html', encoding='utf-8') as file:
+#     src = file.read()
 # print(src)
 
-soup = BeautifulSoup(src, 'lxml')
+# soup = BeautifulSoup(src, 'lxml')
 
 # page_h1 = soup.find('h1')
 # print(page_h1)
-#
+
 # page_h1_all = soup.find_all('h1')
 # print(page_h1_all)
 #
@@ -75,5 +75,5 @@ soup = BeautifulSoup(src, 'lxml')
 #     link_link = link.get("href")
 #     print(f"{link_text}: {link_link} , {link_data_attr}")
 
-finda_a_by_text = soup.find("a", text = re.compile("dl9"))
-print(finda_a_by_text)
+# finda_a_by_text = soup.find("a", text = re.compile("dl9"))
+# print(finda_a_by_text)
