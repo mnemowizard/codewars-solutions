@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Solved:">
-      <change afterPath="$PROJECT_DIR$/Projects/parsertest.py" afterDir="false" />
+    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Start working with parsers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-kyu/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-kyu/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/parser_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/parsertest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/parsertest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747640776687</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Start working with parsers">
+      <option name="closed" value="true" />
+      <created>1747723614930</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747723614931</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -162,7 +167,8 @@
     <MESSAGE value="Solved x4 - 6kyu" />
     <MESSAGE value="Solved: &#10;x2 - 5kyu&#10;x1 = 6kyu" />
     <MESSAGE value="Solved:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved:" />
+    <MESSAGE value="Start working with parsers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start working with parsers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
