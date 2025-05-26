@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Start working with parsers">
+    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Continue work with parsers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-kyu/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-kyu/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/parsertest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/parsertest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,29 +44,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Build a pile of Cubes.executor": "Run",
-    "Python.Calculating with Functions.executor": "Run",
-    "Python.Can you get the loop.executor": "Run",
-    "Python.Consecutive strings.executor": "Run",
-    "Python.Greed is Good.executor": "Run",
-    "Python.Replace With Alphabet Position.executor": "Run",
-    "Python.Simple Simple Simple String Expansion.executor": "Debug",
-    "Python.Take a Ten Minutes Walk.executor": "Run",
-    "Python.Valid Braces.executor": "Run",
-    "Python.parser.executor": "Run",
-    "Python.parsertest.executor": "Run",
-    "Python.s.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/USER/codewars-solutions/Projects",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Build a pile of Cubes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculating with Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Can you get the loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Consecutive strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Greed is Good.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Replace With Alphabet Position.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple Simple Simple String Expansion.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Take a Ten Minutes Walk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Valid Braces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parsertest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/codewars-solutions/Projects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\codewars-solutions\Projects" />
@@ -158,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747723614931</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Continue work with parsers">
+      <option name="closed" value="true" />
+      <created>1747727107492</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747727107492</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,7 +177,8 @@
     <MESSAGE value="Solved: &#10;x2 - 5kyu&#10;x1 = 6kyu" />
     <MESSAGE value="Solved:" />
     <MESSAGE value="Start working with parsers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start working with parsers" />
+    <MESSAGE value="Continue work with parsers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continue work with parsers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

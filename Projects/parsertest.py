@@ -45,4 +45,9 @@ for category_name , category_href in all_categories.items():
         with open(f'data/{count}_{category_name}.html', 'w', encoding = 'utf-8') as file:
             file.write(src)
 
+        with open(f'data/{count}_{category_name}.html', encoding = 'utf-8') as file:
+            src = file.read()
+
+        soup = BeautifulSoup(src, 'lxml')
+        
         count += 1
