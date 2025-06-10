@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Continue work with parsers">
+      <change afterPath="$PROJECT_DIR$/6-kyu/Array.diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Bit Counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Delete occurrences of an element if it occurs more than n times.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Multiples of 3 or 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Stop gninnipS My sdroW!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/List Filtering.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-kyu/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-kyu/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/parsertest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/parsertest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,29 +49,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Build a pile of Cubes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Calculating with Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Can you get the loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Consecutive strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Greed is Good.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Replace With Alphabet Position.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Simple Simple Simple String Expansion.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Take a Ten Minutes Walk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Valid Braces.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parsertest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/codewars-solutions/Projects&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Bit Counting.executor": "Run",
+    "Python.Build a pile of Cubes.executor": "Run",
+    "Python.Calculating with Functions.executor": "Run",
+    "Python.Can you get the loop.executor": "Run",
+    "Python.Consecutive strings.executor": "Run",
+    "Python.Delete occurrences of an element if it occurs more than n times.executor": "Run",
+    "Python.Fast Sort Recur.executor": "Run",
+    "Python.Greed is Good.executor": "Run",
+    "Python.Replace With Alphabet Position.executor": "Run",
+    "Python.Simple Simple Simple String Expansion.executor": "Debug",
+    "Python.Stop gninnipS My sdroW!.executor": "Run",
+    "Python.Take a Ten Minutes Walk.executor": "Run",
+    "Python.Valid Braces.executor": "Run",
+    "Python.parser.executor": "Run",
+    "Python.parsertest.executor": "Run",
+    "Python.s.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/USER/codewars-solutions/Projects",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\codewars-solutions\Projects" />
@@ -167,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747727107492</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Continue work with parsers">
+      <option name="closed" value="true" />
+      <created>1748237699150</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748237699150</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
