@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Solved some codewars tasks">
-      <change afterPath="$PROJECT_DIR$/6-kyu/Who likes it.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Disemvowel Trolls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Even or Odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Multiply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Square Every Digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Vowel Count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-kyu/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-kyu/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,35 +43,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Bit Counting.executor": "Run",
-    "Python.Build a pile of Cubes.executor": "Run",
-    "Python.Calculating with Functions.executor": "Run",
-    "Python.Can you get the loop.executor": "Run",
-    "Python.Consecutive strings.executor": "Run",
-    "Python.Delete occurrences of an element if it occurs more than n times.executor": "Run",
-    "Python.Disemvowel Trolls.executor": "Run",
-    "Python.Fast Sort Recur.executor": "Run",
-    "Python.Greed is Good.executor": "Run",
-    "Python.Replace With Alphabet Position.executor": "Run",
-    "Python.Simple Simple Simple String Expansion.executor": "Debug",
-    "Python.Square Every Digit.executor": "Run",
-    "Python.Stop gninnipS My sdroW!.executor": "Run",
-    "Python.Take a Ten Minutes Walk.executor": "Run",
-    "Python.Valid Braces.executor": "Run",
-    "Python.parser.executor": "Run",
-    "Python.parsertest.executor": "Run",
-    "Python.s.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/USER/codewars-solutions/Projects",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Bit Counting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Build a pile of Cubes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculating with Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Can you get the loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Consecutive strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Delete occurrences of an element if it occurs more than n times.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Disemvowel Trolls.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fast Sort Recur.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Greed is Good.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Replace With Alphabet Position.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple Simple Simple String Expansion.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Square Every Digit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stop gninnipS My sdroW!.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Take a Ten Minutes Walk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Valid Braces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parsertest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/codewars-solutions/Projects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\codewars-solutions\Projects" />
@@ -193,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749538192643</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Solved some codewars tasks">
+      <option name="closed" value="true" />
+      <created>1749542269927</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1749542269927</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,5 +220,13 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+        <watch expression="row" />
+        <watch expression="self.pole" />
+        <watch expression="self.pole[0][0]" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
