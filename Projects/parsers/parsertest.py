@@ -31,7 +31,7 @@ headers = {
 #
 #         all_categories_dict[item_text] = item_href
 
-with open("all_categories_dict.json", encoding = 'utf-8') as file:
+with open("all_categories_dict.json", encoding ='utf-8') as file:
     all_categories = json.load(file)
 
 count = 0

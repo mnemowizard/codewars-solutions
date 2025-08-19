@@ -112,21 +112,17 @@ v5 = Station("Кузнецкий мост")
 v6 = Station("Китай-город 1")
 v7 = Station("Китай-город 2")
 
-map_metro.add_link(LinkMetro(v1, v2, 1))
-map_metro.add_link(LinkMetro(v2, v3, 1))
-map_metro.add_link(LinkMetro(v1, v3, 1))
+map_metro.add_link(LinkMetro(v1, v2, 10))
+map_metro.add_link(LinkMetro(v2, v3, 12))
+map_metro.add_link(LinkMetro(v1, v3, 15))
 
-map_metro.add_link(LinkMetro(v4, v5, 1))
-map_metro.add_link(LinkMetro(v6, v7, 1))
+map_metro.add_link(LinkMetro(v4, v5, 23))
+map_metro.add_link(LinkMetro(v6, v7, 200))
 
-map_metro.add_link(LinkMetro(v2, v7, 5))
-map_metro.add_link(LinkMetro(v3, v4, 3))
-map_metro.add_link(LinkMetro(v5, v6, 3))
+map_metro.add_link(LinkMetro(v2, v7, 50))
+map_metro.add_link(LinkMetro(v3, v4, 33))
+map_metro.add_link(LinkMetro(v5, v6, 30))
 
-print(len(map_metro._links))
-print(len(map_metro._vertex))
-path = map_metro.find_path(v1, v6)  # от сретенского бульвара до китай-город 1
-print(path[0])    # [Сретенский бульвар, Тургеневская, Китай-город 2, Китай-город 1]
-print(sum([x.dist for x in path[1]]))  # 7
-
-print('end')
+path = map_metro.find_path(v1, v6)
+print(f'Оптимальный Маршрут с {v1} до {v6} : {path[0]}')
+print(f'Длинна пути {sum([x.dist for x in path[1]])} км')
