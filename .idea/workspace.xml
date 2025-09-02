@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Solved some codewars tasks">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Dijkstra's algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/shortest_path/path1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codewars-solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codewars-solutions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Final Dijkstra Path Project">
+      <change afterPath="$PROJECT_DIR$/5-kyu/int32 to IPv4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-kyu/Simple Simple Simple String Expansion.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-kyu/Simple Simple Simple String Expansion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6-kyu/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-kyu/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,11 +59,12 @@
     "Python.Fast Sort Recur.executor": "Run",
     "Python.Greed is Good.executor": "Run",
     "Python.Replace With Alphabet Position.executor": "Run",
-    "Python.Simple Simple Simple String Expansion.executor": "Debug",
+    "Python.Simple Simple Simple String Expansion.executor": "Run",
     "Python.Square Every Digit.executor": "Run",
     "Python.Stop gninnipS My sdroW!.executor": "Run",
     "Python.Take a Ten Minutes Walk.executor": "Run",
     "Python.Valid Braces.executor": "Run",
+    "Python.int32 to IPv4.executor": "Run",
     "Python.parser.executor": "Run",
     "Python.parsertest.executor": "Run",
     "Python.path1.executor": "Run",
@@ -73,6 +72,7 @@
     "Python.sql_requests.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/USER/codewars-solutions/Projects",
@@ -88,6 +88,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\codewars-solutions\Projects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\codewars-solutions\Projects\parsers" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -232,7 +235,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749542269927</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Final Dijkstra Path Project">
+      <option name="closed" value="true" />
+      <created>1755589194880</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1755589194880</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Final Dijkstra Path Project">
+      <option name="closed" value="true" />
+      <created>1755589373936</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1755589373936</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,19 +277,20 @@
     <MESSAGE value="Start working with parsers" />
     <MESSAGE value="Continue work with parsers" />
     <MESSAGE value="Solved some codewars tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved some codewars tasks" />
+    <MESSAGE value="Final Dijkstra Path Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Dijkstra Path Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/6-kyu/Simple Simple Simple String Expansion.py</url>
-          <line>12</line>
+          <line>11</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/6-kyu/test.py</url>
-          <line>131</line>
+          <line>11</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
