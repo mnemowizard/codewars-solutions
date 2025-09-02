@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Final Dijkstra Path Project">
-      <change afterPath="$PROJECT_DIR$/5-kyu/int32 to IPv4.py" afterDir="false" />
+    <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
+      <change afterPath="$PROJECT_DIR$/6-kyu/Create Phone Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Find the odd int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Sum of Digits  Digital Root.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Descending Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Highest and Lowest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-kyu/Simple Simple Simple String Expansion.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-kyu/Simple Simple Simple String Expansion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-kyu/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-kyu/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/int32 to IPv4.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/int32 to IPv4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +65,7 @@
     "Python.Simple Simple Simple String Expansion.executor": "Run",
     "Python.Square Every Digit.executor": "Run",
     "Python.Stop gninnipS My sdroW!.executor": "Run",
+    "Python.Sum of Digits  Digital Root.executor": "Run",
     "Python.Take a Ten Minutes Walk.executor": "Run",
     "Python.Valid Braces.executor": "Run",
     "Python.int32 to IPv4.executor": "Run",
@@ -251,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755589373936</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1756799047120</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1756799047120</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +290,8 @@
     <MESSAGE value="Continue work with parsers" />
     <MESSAGE value="Solved some codewars tasks" />
     <MESSAGE value="Final Dijkstra Path Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Dijkstra Path Project" />
+    <MESSAGE value="Codewarsing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewarsing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

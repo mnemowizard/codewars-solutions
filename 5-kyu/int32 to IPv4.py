@@ -30,5 +30,5 @@ def int32_to_ip(int32):
         pass
     return ''.join(res)
 
-result = int32_to_ip(2154959208)
+result = int32_to_ip(32)
 print(result)
