@@ -5,21 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
-      <change afterPath="$PROJECT_DIR$/6-kyu/Convert string to camel case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Counting Duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Does my number look big in this.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Duplicate Encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Find The Parity Outlier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Persistent Bugger..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Convert a Number to a String!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Convert boolean values to strings 'Yes' or 'No'..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Exes and Ohs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Get the Middle Character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Isograms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Mumbling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Reversed Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/Sum of positive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-kyu/You're a square!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Directions Reduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Human Readable Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Moving Zeros To The End.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/RGB To Hex Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Rot13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Simple Pig Latin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Decode the Morse code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Detect Pangram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Playing with digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Tribonacci Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Unique In Order.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,16 +63,23 @@
     "Python.Consecutive strings.executor": "Run",
     "Python.Convert string to camel case.executor": "Run",
     "Python.Counting Duplicates.executor": "Debug",
+    "Python.Decode the Morse code.executor": "Run",
     "Python.Delete occurrences of an element if it occurs more than n times.executor": "Run",
+    "Python.Detect Pangram.executor": "Debug",
     "Python.Dijkstra's algorithm.executor": "Run",
+    "Python.Directions Reduction.executor": "Run",
     "Python.Disemvowel Trolls.executor": "Run",
     "Python.Does my number look big in this.executor": "Run",
     "Python.Fast Sort Recur.executor": "Run",
     "Python.Find The Parity Outlier.executor": "Run",
     "Python.Greed is Good.executor": "Run",
+    "Python.Human Readable Time.executor": "Run",
     "Python.Isograms.executor": "Run",
     "Python.Persistent Bugger..executor": "Run",
+    "Python.Playing with digits.executor": "Run",
+    "Python.RGB To Hex Conversion.executor": "Run",
     "Python.Replace With Alphabet Position.executor": "Run",
+    "Python.Rot13.executor": "Run",
     "Python.Simple Simple Simple String Expansion.executor": "Run",
     "Python.Square Every Digit.executor": "Run",
     "Python.Stop gninnipS My sdroW!.executor": "Run",
@@ -287,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756814240679</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1756887821533</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1756887821533</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +360,16 @@
           <url>file://$PROJECT_DIR$/6-kyu/Find The Parity Outlier.py</url>
           <line>9</line>
           <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6-kyu/Playing with digits.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-kyu/Directions Reduction.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
