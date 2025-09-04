@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
-      <change afterPath="$PROJECT_DIR$/5-kyu/Directions Reduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Human Readable Time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Moving Zeros To The End.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/RGB To Hex Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Rot13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Simple Pig Latin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Decode the Morse code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Detect Pangram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Playing with digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Tribonacci Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Unique In Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Maximum subarray sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/The Hashtag Generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +66,7 @@
     "Python.Greed is Good.executor": "Run",
     "Python.Human Readable Time.executor": "Run",
     "Python.Isograms.executor": "Run",
+    "Python.Maximum subarray sum.executor": "Run",
     "Python.Persistent Bugger..executor": "Run",
     "Python.Playing with digits.executor": "Run",
     "Python.RGB To Hex Conversion.executor": "Run",
@@ -86,6 +78,7 @@
     "Python.Sum of Digits  Digital Root.executor": "Run",
     "Python.Sum of positive.executor": "Run",
     "Python.Take a Ten Minutes Walk.executor": "Run",
+    "Python.The Hashtag Generator.executor": "Run",
     "Python.Valid Braces.executor": "Run",
     "Python.int32 to IPv4.executor": "Run",
     "Python.parser.executor": "Run",
@@ -298,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756887821533</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1756973791836</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1756973791836</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +369,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/5-kyu/Directions Reduction.py</url>
-          <line>40</line>
+          <line>32</line>
           <option name="timeStamp" value="100" />
         </line-breakpoint>
       </breakpoints>
