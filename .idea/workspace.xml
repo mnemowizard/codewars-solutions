@@ -5,9 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
-      <change afterPath="$PROJECT_DIR$/5-kyu/Maximum subarray sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/The Hashtag Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Extract the domain name from a URL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/First non-repeating character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET Maximum subarray sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET Number of trailing zeros of N!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Perimeter of squares in a rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Pete, the baker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Scramblies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/String incrementer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Weight for weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Equal Sides Of An Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Find the unique number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Highest Scoring Word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Sort the odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Split Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer_decorator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/Can you get the loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/Maximum subarray sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-kyu/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,23 +79,30 @@
     "Python.Does my number look big in this.executor": "Run",
     "Python.Fast Sort Recur.executor": "Run",
     "Python.Find The Parity Outlier.executor": "Run",
+    "Python.Find the unique number.executor": "Run",
     "Python.Greed is Good.executor": "Run",
     "Python.Human Readable Time.executor": "Run",
     "Python.Isograms.executor": "Run",
     "Python.Maximum subarray sum.executor": "Run",
+    "Python.Number of trailing zeros of N!.executor": "Run",
+    "Python.Perimeter of squares in a rectangle.executor": "Run",
     "Python.Persistent Bugger..executor": "Run",
     "Python.Playing with digits.executor": "Run",
     "Python.RGB To Hex Conversion.executor": "Run",
     "Python.Replace With Alphabet Position.executor": "Run",
     "Python.Rot13.executor": "Run",
+    "Python.Scramblies.executor": "Run",
     "Python.Simple Simple Simple String Expansion.executor": "Run",
+    "Python.Split Strings.executor": "Run",
     "Python.Square Every Digit.executor": "Run",
     "Python.Stop gninnipS My sdroW!.executor": "Run",
+    "Python.String incrementer.executor": "Debug",
     "Python.Sum of Digits  Digital Root.executor": "Run",
     "Python.Sum of positive.executor": "Run",
     "Python.Take a Ten Minutes Walk.executor": "Run",
     "Python.The Hashtag Generator.executor": "Run",
     "Python.Valid Braces.executor": "Run",
+    "Python.Weight for weight.executor": "Run",
     "Python.int32 to IPv4.executor": "Run",
     "Python.parser.executor": "Run",
     "Python.parsertest.executor": "Run",
@@ -299,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756973791836</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1756984030834</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1756984030834</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,11 +369,6 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6-kyu/test.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Algorithms/Dijkstra's algorithm.py</url>
           <line>48</line>
           <option name="timeStamp" value="88" />
@@ -368,9 +394,24 @@
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5-kyu/Directions Reduction.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="100" />
+          <url>file://$PROJECT_DIR$/6-kyu/Find the unique number.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-kyu/NOT YET Number of trailing zeros of N!.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-kyu/NOT YET Number of trailing zeros of N!.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-kyu/Perimeter of squares in a rectangle.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="115" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
