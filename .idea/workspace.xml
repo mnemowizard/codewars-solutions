@@ -5,25 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
-      <change afterPath="$PROJECT_DIR$/5-kyu/Extract the domain name from a URL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/First non-repeating character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET Maximum subarray sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET Number of trailing zeros of N!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Perimeter of squares in a rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Pete, the baker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Scramblies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/String incrementer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Weight for weight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Equal Sides Of An Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Find the unique number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Highest Scoring Word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Sort the odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Split Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timer_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Integers Recreation One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Maximum subarray sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Number of trailing zeros of N!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Pick peaks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Primes in numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Are they the same.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Count characters in your string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Count the smiley faces!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/NOT YET Is a number prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Write Number in Expanded Form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Kadane's Algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Legendre's Formula .py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-kyu/Can you get the loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-kyu/Maximum subarray sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-kyu/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/NOT YET Maximum subarray sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/NOT YET Number of trailing zeros of N!.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Dijkstra's algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Dijkstra's Algorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +60,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Are they the same.executor": "Run",
     "Python.Bit Counting.executor": "Run",
     "Python.Build a pile of Cubes.executor": "Run",
     "Python.Calculating with Functions.executor": "Run",
@@ -82,12 +80,19 @@
     "Python.Find the unique number.executor": "Run",
     "Python.Greed is Good.executor": "Run",
     "Python.Human Readable Time.executor": "Run",
+    "Python.Integers Recreation One.executor": "Run",
+    "Python.Is a number prime.executor": "Run",
     "Python.Isograms.executor": "Run",
     "Python.Maximum subarray sum.executor": "Run",
+    "Python.NOT YET Are they the same.executor": "Run",
+    "Python.NOT YET Maximum subarray sum.executor": "Run",
+    "Python.NOT YET Number of trailing zeros of N!.executor": "Run",
     "Python.Number of trailing zeros of N!.executor": "Run",
     "Python.Perimeter of squares in a rectangle.executor": "Run",
     "Python.Persistent Bugger..executor": "Run",
+    "Python.Pick peaks.executor": "Run",
     "Python.Playing with digits.executor": "Run",
+    "Python.Primes in numbers.executor": "Run",
     "Python.RGB To Hex Conversion.executor": "Run",
     "Python.Replace With Alphabet Position.executor": "Run",
     "Python.Rot13.executor": "Run",
@@ -103,6 +108,7 @@
     "Python.The Hashtag Generator.executor": "Run",
     "Python.Valid Braces.executor": "Run",
     "Python.Weight for weight.executor": "Run",
+    "Python.Write Number in Expanded Form.executor": "Run",
     "Python.int32 to IPv4.executor": "Run",
     "Python.parser.executor": "Run",
     "Python.parsertest.executor": "Run",
@@ -330,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756984030834</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1757412454772</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1757412454772</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,12 +383,12 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Algorithms/Dijkstra's algorithm.py</url>
+          <url>file://$PROJECT_DIR$/Algorithms/Dijkstra's Algorithm.py</url>
           <line>48</line>
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Algorithms/Dijkstra's algorithm.py</url>
+          <url>file://$PROJECT_DIR$/Algorithms/Dijkstra's Algorithm.py</url>
           <line>42</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
@@ -399,19 +413,14 @@
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5-kyu/NOT YET Number of trailing zeros of N!.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="112" />
+          <url>file://$PROJECT_DIR$/5-kyu/Maximum subarray sum.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5-kyu/NOT YET Number of trailing zeros of N!.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="114" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5-kyu/Perimeter of squares in a rectangle.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="115" />
+          <url>file://$PROJECT_DIR$/5-kyu/Number of trailing zeros of N!.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="118" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
