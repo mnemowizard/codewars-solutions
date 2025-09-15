@@ -1,6 +1,6 @@
 # kata: https://www.codewarscodewars.com/kata/54521e9ec8e60bc4de000d6c
 def max_sequence(arr):
-    if not arr:  # Пустой массив
+    if not arr:
         return 0
 
     max_sum = 0

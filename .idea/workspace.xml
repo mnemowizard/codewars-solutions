@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
-      <change afterPath="$PROJECT_DIR$/5-kyu/Integers Recreation One.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Maximum subarray sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Number of trailing zeros of N!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Pick peaks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Primes in numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Are they the same.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Count characters in your string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Count the smiley faces!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/NOT YET Is a number prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Write Number in Expanded Form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Kadane's Algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Legendre's Formula .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Count IP Addresses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Not very secure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/PaginationHelper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Regex Password Validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Sum of Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-kyu/NOT YET Maximum subarray sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-kyu/NOT YET Number of trailing zeros of N!.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Dijkstra's algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Dijkstra's Algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Kadane's Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Kadane's Algorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +59,7 @@
     "Python.Can you get the loop.executor": "Run",
     "Python.Consecutive strings.executor": "Run",
     "Python.Convert string to camel case.executor": "Run",
+    "Python.Count IP Addresses.executor": "Run",
     "Python.Counting Duplicates.executor": "Debug",
     "Python.Decode the Morse code.executor": "Run",
     "Python.Delete occurrences of an element if it occurs more than n times.executor": "Run",
@@ -87,13 +80,16 @@
     "Python.NOT YET Are they the same.executor": "Run",
     "Python.NOT YET Maximum subarray sum.executor": "Run",
     "Python.NOT YET Number of trailing zeros of N!.executor": "Run",
+    "Python.Not very secure.executor": "Run",
     "Python.Number of trailing zeros of N!.executor": "Run",
+    "Python.PaginationHelper.executor": "Run",
     "Python.Perimeter of squares in a rectangle.executor": "Run",
     "Python.Persistent Bugger..executor": "Run",
     "Python.Pick peaks.executor": "Run",
     "Python.Playing with digits.executor": "Run",
     "Python.Primes in numbers.executor": "Run",
     "Python.RGB To Hex Conversion.executor": "Run",
+    "Python.Regex Password Validation.executor": "Run",
     "Python.Replace With Alphabet Position.executor": "Run",
     "Python.Rot13.executor": "Run",
     "Python.Scramblies.executor": "Run",
@@ -103,6 +99,7 @@
     "Python.Stop gninnipS My sdroW!.executor": "Run",
     "Python.String incrementer.executor": "Debug",
     "Python.Sum of Digits  Digital Root.executor": "Run",
+    "Python.Sum of Pairs.executor": "Debug",
     "Python.Sum of positive.executor": "Run",
     "Python.Take a Ten Minutes Walk.executor": "Run",
     "Python.The Hashtag Generator.executor": "Run",
@@ -344,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757412454772</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1757584734706</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1757584734706</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,6 +426,11 @@
           <url>file://$PROJECT_DIR$/5-kyu/Number of trailing zeros of N!.py</url>
           <line>1</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-kyu/Sum of Pairs.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="130" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
