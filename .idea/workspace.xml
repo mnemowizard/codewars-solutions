@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
-      <change afterPath="$PROJECT_DIR$/5-kyu/Count IP Addresses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Not very secure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/PaginationHelper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Regex Password Validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Sum of Pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Gap in Primes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Last digit of a large number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Kadane's Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Kadane's Algorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +66,7 @@
     "Python.Fast Sort Recur.executor": "Run",
     "Python.Find The Parity Outlier.executor": "Run",
     "Python.Find the unique number.executor": "Run",
+    "Python.Gap in Primes.executor": "Run",
     "Python.Greed is Good.executor": "Run",
     "Python.Human Readable Time.executor": "Run",
     "Python.Integers Recreation One.executor": "Run",
@@ -349,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757584734706</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1757924890963</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1757924890963</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
