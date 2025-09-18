@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
-      <change afterPath="$PROJECT_DIR$/5-kyu/Gap in Primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Last digit of a large number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Common Denominators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Is my friend cheating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Josephus Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Josephus Survivor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/MIDDLE My smallest code interpreter (aka Brainfk).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET A Chain adding function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET Best travel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET Memoized Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/ROT13(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/Tic-Tac-Toe Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-kyu/What's a Perfect Power anyway.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/Gap in Primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/Gap in Primes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/Regex Password Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/Regex Password Validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/Sum of Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/Sum of Pairs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +59,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.A Chain adding function.executor": "Run",
     "Python.Are they the same.executor": "Run",
+    "Python.Best travel.executor": "Run",
     "Python.Bit Counting.executor": "Run",
     "Python.Build a pile of Cubes.executor": "Run",
     "Python.Calculating with Functions.executor": "Run",
     "Python.Can you get the loop.executor": "Run",
+    "Python.Common Denominators.executor": "Run",
     "Python.Consecutive strings.executor": "Run",
     "Python.Convert string to camel case.executor": "Run",
     "Python.Count IP Addresses.executor": "Run",
@@ -71,10 +86,19 @@
     "Python.Human Readable Time.executor": "Run",
     "Python.Integers Recreation One.executor": "Run",
     "Python.Is a number prime.executor": "Run",
+    "Python.Is my friend cheating.executor": "Run",
     "Python.Isograms.executor": "Run",
+    "Python.Josephus Permutation.executor": "Debug",
+    "Python.Josephus Survivor.executor": "Run",
     "Python.Maximum subarray sum.executor": "Run",
+    "Python.Memoized Fibonacci.executor": "Run",
+    "Python.My smallest code interpreter (aka Brainfk).executor": "Run",
+    "Python.NOT YET A Chain adding function.executor": "Run",
     "Python.NOT YET Are they the same.executor": "Run",
+    "Python.NOT YET Best travel.executor": "Debug",
+    "Python.NOT YET Josephus Permutation.executor": "Run",
     "Python.NOT YET Maximum subarray sum.executor": "Run",
+    "Python.NOT YET Memoized Fibonacci.executor": "Run",
     "Python.NOT YET Number of trailing zeros of N!.executor": "Run",
     "Python.Not very secure.executor": "Run",
     "Python.Number of trailing zeros of N!.executor": "Run",
@@ -95,12 +119,13 @@
     "Python.Stop gninnipS My sdroW!.executor": "Run",
     "Python.String incrementer.executor": "Debug",
     "Python.Sum of Digits  Digital Root.executor": "Run",
-    "Python.Sum of Pairs.executor": "Debug",
+    "Python.Sum of Pairs.executor": "Run",
     "Python.Sum of positive.executor": "Run",
     "Python.Take a Ten Minutes Walk.executor": "Run",
     "Python.The Hashtag Generator.executor": "Run",
     "Python.Valid Braces.executor": "Run",
     "Python.Weight for weight.executor": "Run",
+    "Python.What's a Perfect Power anyway.executor": "Run",
     "Python.Write Number in Expanded Form.executor": "Run",
     "Python.int32 to IPv4.executor": "Run",
     "Python.parser.executor": "Run",
@@ -353,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757924890963</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1757931813995</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1757931813995</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,9 +465,29 @@
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-kyu/NOT YET Best travel.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-kyu/Common Denominators.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-kyu/Common Denominators.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/5-kyu/Sum of Pairs.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="130" />
+          <line>13</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-kyu/NOT YET A Chain adding function.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="154" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
