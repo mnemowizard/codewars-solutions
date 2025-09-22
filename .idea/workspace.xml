@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
-      <change afterPath="$PROJECT_DIR$/5-kyu/Common Denominators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Is my friend cheating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Josephus Permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Josephus Survivor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/MIDDLE My smallest code interpreter (aka Brainfk).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET A Chain adding function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET Best travel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/NOT YET Memoized Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/ROT13(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/Tic-Tac-Toe Checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-kyu/What's a Perfect Power anyway.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-kyu/Gap in Primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/Gap in Primes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-kyu/Regex Password Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/Regex Password Validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-kyu/Sum of Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/Sum of Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/NOT YET Best travel.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/NOT YET Best travel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +82,7 @@
     "Python.My smallest code interpreter (aka Brainfk).executor": "Run",
     "Python.NOT YET A Chain adding function.executor": "Run",
     "Python.NOT YET Are they the same.executor": "Run",
-    "Python.NOT YET Best travel.executor": "Debug",
+    "Python.NOT YET Best travel.executor": "Run",
     "Python.NOT YET Josephus Permutation.executor": "Run",
     "Python.NOT YET Maximum subarray sum.executor": "Run",
     "Python.NOT YET Memoized Fibonacci.executor": "Run",
@@ -386,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757931813995</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1758200368190</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1758200368190</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,7 +461,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/5-kyu/NOT YET Best travel.py</url>
-          <line>6</line>
+          <line>29</line>
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -483,11 +478,6 @@
           <url>file://$PROJECT_DIR$/5-kyu/Sum of Pairs.py</url>
           <line>13</line>
           <option name="timeStamp" value="147" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5-kyu/NOT YET A Chain adding function.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="154" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
