@@ -1,18 +1,12 @@
-from timer_decorator import timer
-
-@timer
-def loop_for_enumerate(lst):
-    for i, d in enumerate(lst):
-        for j, e in enumerate(lst):
-            pass
-
-@timer
-def loop_for_range(lst):
-    for i in lst:
-        for j in lst:
-            pass
+def longest_consec(strarr, k):
+    len_arr = len(strarr)
+    if len_arr == 0 or k > len_arr or k <= 0:
+        return ""
+    print(strarr[5:8])
+    return max((''.join(strarr[i:i+k]) for i in range(len(strarr))), key=len)
 
 
-lst = [1]*1000
-loop_for_range(lst)
-loop_for_enumerate(lst)
+print(longest_consec(["tree", "foling", "trashy", "blue", "abcdef", "uvwxyz"], k = 2))
+
+
+

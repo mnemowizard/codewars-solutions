@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95caf36d-3c1b-4469-a518-bdd6002f0c93" name="Changes" comment="Codewarsing">
+      <change afterPath="$PROJECT_DIR$/6-kyu/Bouncing Balls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Is a number prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Which are in.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-kyu/NOT YET Best travel.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/NOT YET Best travel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-kyu/NOT YET Is a number prime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,98 +47,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.A Chain adding function.executor": "Run",
-    "Python.Are they the same.executor": "Run",
-    "Python.Best travel.executor": "Run",
-    "Python.Bit Counting.executor": "Run",
-    "Python.Build a pile of Cubes.executor": "Run",
-    "Python.Calculating with Functions.executor": "Run",
-    "Python.Can you get the loop.executor": "Run",
-    "Python.Common Denominators.executor": "Run",
-    "Python.Consecutive strings.executor": "Run",
-    "Python.Convert string to camel case.executor": "Run",
-    "Python.Count IP Addresses.executor": "Run",
-    "Python.Counting Duplicates.executor": "Debug",
-    "Python.Decode the Morse code.executor": "Run",
-    "Python.Delete occurrences of an element if it occurs more than n times.executor": "Run",
-    "Python.Detect Pangram.executor": "Debug",
-    "Python.Dijkstra's algorithm.executor": "Run",
-    "Python.Directions Reduction.executor": "Run",
-    "Python.Disemvowel Trolls.executor": "Run",
-    "Python.Does my number look big in this.executor": "Run",
-    "Python.Fast Sort Recur.executor": "Run",
-    "Python.Find The Parity Outlier.executor": "Run",
-    "Python.Find the unique number.executor": "Run",
-    "Python.Gap in Primes.executor": "Run",
-    "Python.Greed is Good.executor": "Run",
-    "Python.Human Readable Time.executor": "Run",
-    "Python.Integers Recreation One.executor": "Run",
-    "Python.Is a number prime.executor": "Run",
-    "Python.Is my friend cheating.executor": "Run",
-    "Python.Isograms.executor": "Run",
-    "Python.Josephus Permutation.executor": "Debug",
-    "Python.Josephus Survivor.executor": "Run",
-    "Python.Maximum subarray sum.executor": "Run",
-    "Python.Memoized Fibonacci.executor": "Run",
-    "Python.My smallest code interpreter (aka Brainfk).executor": "Run",
-    "Python.NOT YET A Chain adding function.executor": "Run",
-    "Python.NOT YET Are they the same.executor": "Run",
-    "Python.NOT YET Best travel.executor": "Run",
-    "Python.NOT YET Josephus Permutation.executor": "Run",
-    "Python.NOT YET Maximum subarray sum.executor": "Run",
-    "Python.NOT YET Memoized Fibonacci.executor": "Run",
-    "Python.NOT YET Number of trailing zeros of N!.executor": "Run",
-    "Python.Not very secure.executor": "Run",
-    "Python.Number of trailing zeros of N!.executor": "Run",
-    "Python.PaginationHelper.executor": "Run",
-    "Python.Perimeter of squares in a rectangle.executor": "Run",
-    "Python.Persistent Bugger..executor": "Run",
-    "Python.Pick peaks.executor": "Run",
-    "Python.Playing with digits.executor": "Run",
-    "Python.Primes in numbers.executor": "Run",
-    "Python.RGB To Hex Conversion.executor": "Run",
-    "Python.Regex Password Validation.executor": "Run",
-    "Python.Replace With Alphabet Position.executor": "Run",
-    "Python.Rot13.executor": "Run",
-    "Python.Scramblies.executor": "Run",
-    "Python.Simple Simple Simple String Expansion.executor": "Run",
-    "Python.Split Strings.executor": "Run",
-    "Python.Square Every Digit.executor": "Run",
-    "Python.Stop gninnipS My sdroW!.executor": "Run",
-    "Python.String incrementer.executor": "Debug",
-    "Python.Sum of Digits  Digital Root.executor": "Run",
-    "Python.Sum of Pairs.executor": "Run",
-    "Python.Sum of positive.executor": "Run",
-    "Python.Take a Ten Minutes Walk.executor": "Run",
-    "Python.The Hashtag Generator.executor": "Run",
-    "Python.Valid Braces.executor": "Run",
-    "Python.Weight for weight.executor": "Run",
-    "Python.What's a Perfect Power anyway.executor": "Run",
-    "Python.Write Number in Expanded Form.executor": "Run",
-    "Python.int32 to IPv4.executor": "Run",
-    "Python.parser.executor": "Run",
-    "Python.parsertest.executor": "Run",
-    "Python.path1.executor": "Run",
-    "Python.s.executor": "Run",
-    "Python.sql_requests.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/USER/codewars-solutions/Projects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.scopes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.A Chain adding function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Are they the same.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Best travel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bit Counting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Build a pile of Cubes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculating with Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Can you get the loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Common Denominators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Consecutive strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Convert string to camel case.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count IP Addresses.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Counting Duplicates.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Decode the Morse code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Delete occurrences of an element if it occurs more than n times.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Detect Pangram.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Dijkstra's algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Directions Reduction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Disemvowel Trolls.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Does my number look big in this.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fast Sort Recur.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find The Parity Outlier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find the unique number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Gap in Primes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Greed is Good.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Human Readable Time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Integers Recreation One.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Is a number prime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Is my friend cheating.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Isograms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Josephus Permutation.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Josephus Survivor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Maximum subarray sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Memoized Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.My smallest code interpreter (aka Brainfk).executor&quot;: &quot;Run&quot;,
+    &quot;Python.NOT YET A Chain adding function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NOT YET Are they the same.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NOT YET Best travel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NOT YET Josephus Permutation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NOT YET Maximum subarray sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NOT YET Memoized Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NOT YET Number of trailing zeros of N!.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Not very secure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number of trailing zeros of N!.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PaginationHelper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Perimeter of squares in a rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Persistent Bugger..executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pick peaks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Playing with digits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Primes in numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RGB To Hex Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Regex Password Validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Replace With Alphabet Position.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Rot13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scramblies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple Simple Simple String Expansion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Split Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Square Every Digit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stop gninnipS My sdroW!.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String incrementer.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Sum of Digits  Digital Root.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum of Pairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum of positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Take a Ten Minutes Walk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.The Hashtag Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Valid Braces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Weight for weight.executor&quot;: &quot;Run&quot;,
+    &quot;Python.What's a Perfect Power anyway.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Write Number in Expanded Form.executor&quot;: &quot;Run&quot;,
+    &quot;Python.int32 to IPv4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parsertest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.path1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.s.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sql_requests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/codewars-solutions/Projects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\codewars-solutions\Projects" />
@@ -381,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758200368190</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Codewarsing">
+      <option name="closed" value="true" />
+      <created>1758547638347</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1758547638347</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,7 +472,7 @@
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5-kyu/NOT YET Best travel.py</url>
+          <url>file://$PROJECT_DIR$/5-kyu/MIDDLE Best travel.py</url>
           <line>29</line>
           <option name="timeStamp" value="132" />
         </line-breakpoint>
